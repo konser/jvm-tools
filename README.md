@@ -126,3 +126,6 @@ Dumps all MBeans of target java process to JSON.
  [sophisticated filtering]: sjk-core/src/main/resources/org/gridkit/jvmtool/cmd/ssa-help.md
  [flame graphs]: http://blog.ragozin.info/2016/01/flame-graphs-vs-cold-numbers.html
  [html-flame]: sjk-hflame/docs/flame_graph_ui.md
+ 
+ 
+ hprof-heap jvm堆文件分析例子
